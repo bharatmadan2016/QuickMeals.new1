@@ -200,7 +200,7 @@ const addToCart = (product) => {
 const updateCartStorage = () => {
     localStorage.setItem("cartProduct", JSON.stringify(cartProduct));
 };
-d
+
 const initApp = () => {
     fetch("Products.json")
         .then(response => response.json())
