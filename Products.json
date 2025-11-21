@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Veg Burger",
+        "price": "Rs.200",
+        "image": "Images/burger.png"
+    },
+    {
+        "id": 2,
+        "name": "Veggie Pizza",
+        "price": "Rs.350",
+        "image": "Images/pizza.png"
+    },
+    {
+        "id": 3,
+        "name": "Fried Chicken",
+        "price": "Rs.450",
+        "image": "Images/fried-chicken.png"
+    },
+    {
+        "id": 4,
+        "name": "Chicken Roll",
+        "price": "Rs.250",
+        "image": "Images/chicken-roll.png"
+    },
+    {
+        "id": 5,
+        "name": "Veg Subway",
+        "price": "Rs.300",
+        "image": "Images/sandwich.png"
+    },
+    {
+        "id": 6,
+        "name": "Lasagna",
+        "price": "Rs.300",
+        "image": "Images/lasagna.png"
+    },
+    {
+        "id": 7,
+        "name": "Speghetti",
+        "price": "Rs.350",
+        "image": "Images/spaghetti.png"
+    },
+    {
+        "id": 8,
+        "name": "Spring Roll",
+        "price": "Rs.300",
+        "image": "Images/spring-roll.png"
+    },
+    {
+        "id": 9,
+        "name": "Italian Pasta",
+        "price": "Rs.400",
+        "image": "Images/pasta_img_png_imresizer.png"
+        
+    }
+    
+]
